@@ -1,0 +1,19 @@
+{
+  "name": "spotify-health-server",
+  "version": "1.0.0",
+  "description": "AWS Backend for Spotify HealthChecks",
+  "main": "handler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-yhc/spotify-health-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-yhc/spotify-health-server/issues"
+  },
+  "homepage": "https://github.com/peter-yhc/spotify-health-server#readme"
+}
