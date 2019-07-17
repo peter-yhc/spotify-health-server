@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/peter-yhc/spotify-health-server/issues"
   },
-  "homepage": "https://github.com/peter-yhc/spotify-health-server#readme"
+  "homepage": "https://github.com/peter-yhc/spotify-health-server#readme",
+  "devDependencies": {
+    "serverless-webpack": "^5.3.1",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.36.0"
+  }
 }

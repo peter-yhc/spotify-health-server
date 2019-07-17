@@ -65,6 +65,8 @@ functions:
 #    Define function environment variables here
 #    environment:
 #      variable2: value2
+plugins:
+  - serverless-webpack
 
 package:
   exclude:
